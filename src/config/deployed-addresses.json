@@ -1,0 +1,19 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployedAt": "2026-05-18T21:06:27.361Z",
+  "deployer": "0x648E32aE50c63FBE515642C11EdBdf646aFEd0eA",
+  "contracts": {
+    "XOFToken": "0xc97E1FA3C65F78FF5085D2CEC5D4BA4B0242d5e3",
+    "EURToken": "0x5b3bAEbEEcBbe3b5F8eb00aeFcF1dE77A9e0Dcde",
+    "USDToken": "0xEda32e5464539E489ed9B77928D096aeeCb11084",
+    "RateOracle": "0xb096a6BEc1AB2aA644BBfaaad2C81dF46762F083",
+    "TransferManager": "0xc1f370c948b07797FbBFaB5b91B90f53d2345144"
+  },
+  "rates": {
+    "EUR": "655.957",
+    "USD": "598"
+  },
+  "feeBps": 100,
+  "feeRecipient": "0x648E32aE50c63FBE515642C11EdBdf646aFEd0eA"
+}
